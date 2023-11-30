@@ -1,2 +1,3 @@
 # world
-trabajo bases de datos
+Avances proyecto bases de datos
+David Felipe Alfonso Espinosa - ing sistemas
